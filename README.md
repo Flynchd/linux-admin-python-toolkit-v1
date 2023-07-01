@@ -2,7 +2,7 @@
 
 The Linux Admin Toolkit v1, implemented in Python, is a comprehensive utility designed to streamline and automate administrative tasks in Linux. This toolkit embraces Python's philosophy of simplicity and readability, making it accessible to administrators of varying skill levels.
 
-_- This toolkit is WIP _
+_Note This toolkit is WIP and I am a lazy developer_
 
 **System Updates**: The toolkit provides functionalities to ensure the system is up-to-date, performing tasks such as package updates and system upgrades.
 
